@@ -1,0 +1,1 @@
+streamlit>=1.35,<2.0\npandas>=2.0,<3.0\nmatplotlib>=3.7,<4.0\n
